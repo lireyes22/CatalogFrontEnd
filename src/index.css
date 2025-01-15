@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.imgCollar {
+    /* background-image: url('https://raw.githubusercontent.com/lireyes22/catalogoImagesBD/main/Prueba.jpg'); */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.svgClass svg{
+    @apply w-6 h-6;
+}
+
+.spinCarga svg{
+    @apply animate-spin w-36 h-36 fill-yellow-600;
+}

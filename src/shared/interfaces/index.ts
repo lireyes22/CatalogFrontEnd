@@ -1,0 +1,6 @@
+export type { Address } from './Address'
+export type { Client } from './Client'
+export type { Supplier } from './Supplier'
+export type { User } from './User'
+export type { MainUser } from './MainUser'
+export type { Product } from './Product'

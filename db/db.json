@@ -1,0 +1,32 @@
+{
+    "products":[
+        {
+            "Product_ID": "1",
+            "Product_Name": "Collar Osito Dorado",
+            "Product_Price": 300,
+            "Product_Image": "https://raw.githubusercontent.com/lireyes22/catalogoImagesBD/main/Prueba.jpg",
+            "Product_Raiting": 5
+        },
+        {
+            "Product_ID": "2",
+            "Product_Name": "Collar Osito Dorado",
+            "Product_Price": 300,
+            "Product_Image": "https://raw.githubusercontent.com/lireyes22/catalogoImagesBD/main/PruebaDos.jpg",
+            "Product_Raiting": 5
+        },
+        {
+            "Product_ID": "3",
+            "Product_Name": "Collar Osito Dorado",
+            "Product_Price": 300,
+            "Product_Image": "https://raw.githubusercontent.com/lireyes22/catalogoImagesBD/main/Prueba.jpg",
+            "Product_Raiting": 5
+        },
+        {
+            "Product_ID": "4",
+            "Product_Name": "Collar Osito Dorado",
+            "Product_Price": 300,
+            "Product_Image": "https://raw.githubusercontent.com/lireyes22/catalogoImagesBD/main/PruebaDos.jpg",
+            "Product_Raiting": 5
+        }       
+    ]
+}
